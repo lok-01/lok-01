@@ -26,28 +26,12 @@
 ### 🔹 Tech Market (E-commerce Backend)
 - Built REST APIs using Node.js, Express, MongoDB  
 - Implemented product management & API handling  
-- Focused on scalability and clean architecture  
-
-### 🔹 Sentiment Analysis App
-- Integrated ML model with backend  
-- Built using Spring Boot + Python  
-- Stores and analyzes user input  
-
+- Focused on scalability and clean architecture
 ---
+## Live URLs
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lok-01&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-
+- **Frontend**: [https://techmarkett.vercel.app](https://techmarkett.vercel.app/)
+- **Backend API**: [https://techmarkett.onrender.com/api/products](https://techmarkett.onrender.com/api/products)
 ---
 
 ⭐ Always learning, building, and improving.
